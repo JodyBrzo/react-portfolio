@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./public/images/dayrec.png",
+    "image-link": "https://dayrec.herokuapp.com/",
+    "name": "DAYREC",
+    "description": "This was my second group project, We created an application that allowed our class to submit bets on how many times our Instructor forgot to share his screen or recoed the session.",
+    "repo-link": "https://github.com/JodyBrzo/DAYREC"
+  },
+  {
+    "id": 2,
+    "image": "./public/images/eat-da-burger.gif",
+    "image-link": "https://whispering-everglades-85097.herokuapp.com/",
+    "name": "Eat Da Burger!",
+    "description": "This is a simple MVC Express app using MySQL that lets you add names of burgers you would like to eat.",
+    "repo-link": "https://github.com/JodyBrzo/eat-da-burger"
+  },
+  {
+    "id": 3,
+    "image": "./public/images/day-planner.gif",
+    "image-link": "https://jodybrzo.github.io/day-planner/index.html",
+    "name": "Day Planner",
+    "description": "A simple calendar app for scheduling your work day. Add or delete your tasks in the desired time slot and click save.",
+    "repo-link": "https://github.com/JodyBrzo/day-planner"
+  },
+  {
+    "id": 4,
+    "image": "./public/images/horiseon.png",
+    "image-link": "https://jodybrzo.github.io/code-refactor-accessibility/index.html",
+    "name": "Code Refactor",
+    "description": "This was a supplied project, my job was to clean up the code and implement accessibility.",
+    "repo-link": "https://github.com/JodyBrzo/code-refactor-accessibility"
+  },
+  {
+    "id": 5,
+    "image": "./public/images/restaurant-dashboard.gif",
+    "image-link": "https://teangelo1.github.io/restaurant-dashboard/",
+    "name": "Restaurant Dashboard",
+    "description": "This was my first group project utilizing the Yelp and Google APIs. User can search for restaurants in a zip code and can save favorites.",
+    "repo-link": "https://github.com/Teangelo1/restaurant-dashboard"
+  },
+  {
+    "id": 6,
+    "image": "./public/images/weather-dashboard.gif",
+    "image-link": "https://jodybrzo.github.io/weather-dashboard/index.html",
+    "name": "Weather Dashboard",
+    "description": "Utilizes the OpenWeather API to retrieve and store current and 5 day weather forecast based on user entered zip code.",
+    "repo-link": "https://github.com/JodyBrzo/weather-dashboard"
+  }
+]
