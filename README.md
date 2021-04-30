@@ -16,13 +16,13 @@ You can view the live deployed app on GitHub Pages here [Deployed Note Taker App
 ---
 
 ### Home page lists out my skillset.
-![SAMPLE](public/images/screenshot.png)
+![SAMPLE](/images/screenshot.png)
 
 
 ---
 
 ### project page lists a gallery of my sample projects with links to the live sites as well as the GitHub Repo.
-![SAMPLE](public/images/projects-mockup.png)
+![SAMPLE](/images/projects-mockup.png)
 
 
 ---
