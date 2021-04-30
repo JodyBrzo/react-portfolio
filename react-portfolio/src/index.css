@@ -1,13 +1,63 @@
 body {
-  margin: 0;
+  background-color: #f4f4f4;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.col-main{
+  /* background-color: #7fc6e2; */
+  background-color: #98d1e2;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 10px;
+  padding-right: 15px;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.col-project{
+  /* background-color: #7fc6e2; */
+  background-color: #98d1e2;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 10px;
+  padding: 70px;
+}
+/*sizinig portfolio pic, floating to the left so the text wraps on the left 
+and margin-right adds a little space between the image and the text*/
+.row-content img{
+  width: 200px;
+  float: left;
+  margin-left: 40px;
+}
+
+.content-text{
+  margin-left: 40px;
+}
+
+/*set h1 text color and add padding to the top and bottom of text to push the column border down a bit*/
+h1{
+  color: white;
+  padding: 10px 0px;
+  margin-left: 10px;
+}
+
+/*padding-top pushes the text down and away from the line
+text-justify wraps the text around the image*/
+.row-content{
+  padding-top: 10px;
+  text-align: left;  
+}
+
+/*adds bullets to the line items at the bottom of the paragraph*/
+ol{
+
+  list-style-type: inherit;
+}
+
+h5{
+  padding-bottom: 15px;
+  padding-top: 15px;
 }

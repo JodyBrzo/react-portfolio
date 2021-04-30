@@ -12,13 +12,26 @@
 /*sizing the indeed logo on the footer*/
 .footer-indeed{
   height: 30px;
+
 }
 
 /*sizing the resume download logo on the footer*/
 .footer-resume{
   height: 40px;
+
 }
 
 .resume{
   height: 40px;
+
 }
+
+a {
+  padding: 0px 10px ;
+}
+
+.text-center {
+  padding: 5px;
+
+}
+
