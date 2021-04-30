@@ -1,3 +1,24 @@
-nav.navbar.navbar-default {
-  margin-bottom: 0;
+/*div height to ensure all the content clears the sticky footer for scrolling*/
+.content-scroll{
+  height: 20px;
+}
+
+/*makes the dark gray line above the footer*/
+.footer-height{
+  
+  border-top: 5px solid #5c5b5b;
+}
+
+/*sizing the indeed logo on the footer*/
+.footer-indeed{
+  height: 30px;
+}
+
+/*sizing the resume download logo on the footer*/
+.footer-resume{
+  height: 40px;
+}
+
+.resume{
+  height: 40px;
 }
