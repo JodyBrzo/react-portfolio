@@ -63,13 +63,13 @@ function Footer() {
             ></path>
           </svg>
         </a>
-        <a href="https://my.indeed.com/p/e85lyhv" target="_blank" rel="noreferrer">
+        {/* <a href="https://my.indeed.com/p/e85lyhv" target="_blank" rel="noreferrer">
           <img
             className="footer-indeed"
             src="/images/indeed.png"
             alt="indeed.com Jody Brzovski"
           />
-        </a>
+        </a> */}
       </div>
       <div className="text-center">&#169; Copyright 2020 - Jody Brzovski</div>
     </footer>
