@@ -16,7 +16,7 @@ You can view the live deployed app on GitHub Pages here [Deployed Note Taker App
 ---
 
 ### Home page lists out my skillset.
-![SAMPLE](/images/screenshot.png)
+![SAMPLE](react-portfolio/public/images/screenshot.png)
 
 
 ---
