@@ -9,14 +9,14 @@ function Footer() {
       <div className="text-center">
         <a
           className="footer-resume"
-          href="/resume/jody-brzovski-resume.pdf"
+          href="./resume/jody-brzovski-resume.pdf"
           download="jody-brzovski-resume.pdf"
           target="_blank"
           aria-label="resume Jody Brzovski"
         >
           <img
             className="resume"
-            src="/images/resume.png"
+            src="./images/resume.png"
             alt="resume download Jody Brzovski"
           />
         </a>

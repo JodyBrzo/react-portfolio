@@ -9,7 +9,7 @@ function Home() {
           <div className="col-main">
             <h1 className="index-h1"> About Me </h1>
             <div className="row row-content">
-              <img src="/images/profile.jpg" alt="Jody Brzovski" />
+              <img src="./images/profile.jpg" alt="Jody Brzovski" />
               <div className="content-text">
                 <p>
                   I am working hard to advance my expertise in software and
