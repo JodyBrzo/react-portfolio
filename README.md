@@ -2,7 +2,7 @@
 
 
 # react-portfolio
- Jody Brzovski online portfolio using React showcases my skillset and sample projects
+ Welcome to my online portfolio built using React.js.  This site showcases my skillset and sample projects as well as links to my resume and linkedIn page.  Please view the projects page and follow the links to my GitHub repo, checkout my README files for a full description of each project.
 
 # Technology used
 * React, useEffect, useState, HashRouter
@@ -16,13 +16,13 @@ You can view the live deployed app on GitHub Pages here [Deployed Note Taker App
 ---
 
 ### Home page lists out my skillset.
-![SAMPLE](react-portfolio/public/images/screenshot.png)
+![SAMPLE]./(react-portfolio/public/images/screenshot.png)
 
 
 ---
 
 ### project page lists a gallery of my sample projects with links to the live sites as well as the GitHub Repo.
-![SAMPLE](react-portfolio/public/images/projects-mockup.png)
+![SAMPLE](./react-portfolio/public/images/projects-mockup.png)
 
 
 ---
