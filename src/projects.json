@@ -1,6 +1,14 @@
 [
   {
     "id": 1,
+    "image": "./images/hedgefund.png",
+    "imageLink": "https://hedge-fund-01.herokuapp.com/#/",
+    "name": "Hedge Fund",
+    "description": "Hedge Fund is an application that brings clients and contractors together.  Clients can log in and post jobs they are looking to have done like roofing or lawn mowing.  Contractors can log in and search for those posted jobs within a radius they are willing to travel.",    
+    "repoLink": "https://github.com/JodyBrzo/Hedge-fund"
+  },
+  {
+    "id": 2,
     "image": "./images/dayrec.png",
     "imageLink": "https://dayrec.herokuapp.com/",
     "name": "DAYREC",
@@ -8,7 +16,15 @@
     "repoLink": "https://github.com/JodyBrzo/DAYREC"
   },
   {
-    "id": 2,
+    "id": 3,
+    "image": "./images/restaurant-dashboard.gif",
+    "imageLink": "https://teangelo1.github.io/restaurant-dashboard/",
+    "name": "Restaurant Dashboard",
+    "description": "This was my first group project utilizing the Yelp and Google APIs. User can search for restaurants in a zip code and can save favorites.",
+    "repoLink": "https://github.com/Teangelo1/restaurant-dashboard"
+  },
+  {
+    "id": 4,
     "image": "./images/eat-da-burger.gif",
     "imageLink": "https://whispering-everglades-85097.herokuapp.com/",
     "name": "Eat Da Burger!",
@@ -16,28 +32,12 @@
     "repoLink": "https://github.com/JodyBrzo/eat-da-burger"
   },
   {
-    "id": 3,
+    "id": 5,
     "image": "./images/day-planner.gif",
     "imageLink": "https://jodybrzo.github.io/day-planner/index.html",
     "name": "Day Planner",
     "description": "A simple calendar app for scheduling your work day. Add or delete your tasks in the desired time slot and click save.",
     "repoLink": "https://github.com/JodyBrzo/day-planner"
-  },
-  {
-    "id": 4,
-    "image": "./images/horiseon.png",
-    "imageLink": "https://jodybrzo.github.io/code-refactor-accessibility/index.html",
-    "name": "Code Refactor",
-    "description": "This was a supplied project, my job was to clean up the code and implement accessibility.",
-    "repoLink": "https://github.com/JodyBrzo/code-refactor-accessibility"
-  },
-  {
-    "id": 5,
-    "image": "./images/restaurant-dashboard.gif",
-    "imageLink": "https://teangelo1.github.io/restaurant-dashboard/",
-    "name": "Restaurant Dashboard",
-    "description": "This was my first group project utilizing the Yelp and Google APIs. User can search for restaurants in a zip code and can save favorites.",
-    "repoLink": "https://github.com/Teangelo1/restaurant-dashboard"
   },
   {
     "id": 6,
