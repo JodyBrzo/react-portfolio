@@ -11,7 +11,7 @@
 
 
 # Usage
-You can view the live deployed app on GitHub Pages here [Deployed Note Taker App ](https://jodybrzo.github.io/employeedirectory/)
+You can view my live deployed portfolio on Heroku here [Deployed Portfolio ](https://jodybrzovskiportfolio.herokuapp.com/#/)
 
 ---
 
