@@ -9,7 +9,7 @@ function Footer() {
       <div className="text-center">
         <a
           className="footer-resume"
-          href="https://docs.google.com/document/d/19nLQ8mYd8fyaWPHqo3PlJyY4tMjrdU_dgNgnjjqdUZo/edit?usp=sharing"
+          href="https://drive.google.com/file/d/1geyYjfPNqqS0EIl561SKlENi5dIhP6Wb/view?usp=sharing"
           target="_blank"
           aria-label="resume Jody Brzovski"
         >

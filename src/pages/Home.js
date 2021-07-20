@@ -31,7 +31,9 @@ function Home() {
                   I am willing to find new ways to aid and supplement the
                   business processes and goals for an employer, provided by
                   independent research and development initiatives as well as
-                  volunteering for challenging roles and tasks.
+                  volunteering for challenging roles and tasks. Check out my portfolio 
+                  page and click the links below for my resume, LinkedIn and GitHub.  You can also
+                  email me at <a href="mailto:jody.brzovski@gmail.com">jody.brzovski@gmail.com.</a>
                 </p>
                 <h5>Specialties: Full Stack Development</h5>
                 <Row>

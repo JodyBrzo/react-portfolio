@@ -1,50 +1,61 @@
 [
   {
     "id": 1,
-    "image": "./images/hedgefund.png",
-    "imageLink": "https://hedge-fund-01.herokuapp.com/#/",
+    "image": "./images/hedgefundclientcontractor.mp4",
+    "poster": "./images/hedgefund.png",
     "name": "Hedge Fund",
     "description": "Hedge Fund is an application that brings clients and contractors together.  Clients can log in and post jobs they are looking to have done like roofing or lawn mowing.  Contractors can log in and search for those posted jobs within a radius they are willing to travel.",    
-    "repoLink": "https://github.com/JodyBrzo/Hedge-fund"
+    "repoLink": "https://github.com/JodyBrzo/Hedge-fund",
+    "liveLink": "https://hedge-fund-01.herokuapp.com/#/"
   },
   {
     "id": 2,
-    "image": "./images/dayrec.png",
-    "imageLink": "https://dayrec.herokuapp.com/",
+    "image": "./images/dayrec.mp4",
+    "poster": "./images/dayrec.png",
     "name": "DAYREC",
     "description": "This was my second group project, We created an application that allowed our class to submit bets on how many times our Instructor forgot to share his screen or recoed the session.",
-    "repoLink": "https://github.com/JodyBrzo/DAYREC"
+    "repoLink": "https://github.com/JodyBrzo/DAYREC",
+    "liveLink": "https://dayrec.herokuapp.com/"
+
   },
   {
     "id": 3,
-    "image": "./images/restaurant-dashboard.gif",
-    "imageLink": "https://teangelo1.github.io/restaurant-dashboard/",
+    "image": "./images/resturantdashboard.mp4",
+    "poster": "./images/restaurantdashboard.png",
     "name": "Restaurant Dashboard",
-    "description": "This was my first group project utilizing the Yelp and Google APIs. User can search for restaurants in a zip code and can save favorites.",
-    "repoLink": "https://github.com/Teangelo1/restaurant-dashboard"
+    "description": "This was my first group project utilizing the Yelp and Google APIs. User can search for restaurants in a zip code and can save favorites to local storage.",
+    "repoLink": "https://github.com/JodyBrzo/restaurant-dashboard",
+    "liveLink": "https://jodybrzo.github.io/restaurant-dashboard/"
+
   },
   {
     "id": 4,
-    "image": "./images/eat-da-burger.gif",
-    "imageLink": "https://whispering-everglades-85097.herokuapp.com/",
+    "image": "./images/eatdaburger.mp4",
+    "poster": "./images/eatdaburger.gif",
     "name": "Eat Da Burger!",
     "description": "This is a simple MVC Express app using MySQL that lets you add names of burgers you would like to eat.",
-    "repoLink": "https://github.com/JodyBrzo/eat-da-burger"
+    "repoLink": "https://github.com/JodyBrzo/eat-da-burger",
+    "liveLink": "https://whispering-everglades-85097.herokuapp.com/"
+
   },
   {
     "id": 5,
-    "image": "./images/day-planner.gif",
-    "imageLink": "https://jodybrzo.github.io/day-planner/index.html",
+    "image": "./images/dayplanner.mp4",
+    "poster": "./images/dayplanner.gif",
     "name": "Day Planner",
-    "description": "A simple calendar app for scheduling your work day. Add or delete your tasks in the desired time slot and click save.",
-    "repoLink": "https://github.com/JodyBrzo/day-planner"
+    "description": "A simple calendar app for scheduling your work day. Add or delete your tasks in the desired time slot and click save to save the tasks to local storage.",
+    "repoLink": "https://github.com/JodyBrzo/day-planner",
+    "liveLink": "https://jodybrzo.github.io/day-planner/index.html"
+
   },
   {
     "id": 6,
-    "image": "./images/weather-dashboard.gif",
-    "imageLink": "https://jodybrzo.github.io/weather-dashboard/index.html",
+    "image": "./images/weatherdashboard.mp4",
+    "poster": "./images/weatherdashboard.gif",
     "name": "Weather Dashboard",
-    "description": "Utilizes the OpenWeather API to retrieve and store current and 5 day weather forecast based on user entered zip code.",
-    "repoLink": "https://github.com/JodyBrzo/weather-dashboard"
+    "description": "Utilizes the OpenWeather API to retrieve the current and 5 day weather forecast based on user entered zip code. Saves search history to local storage",
+    "repoLink": "https://github.com/JodyBrzo/weather-dashboard",
+    "liveLink": "https://jodybrzo.github.io/weather-dashboard/index.html"
+
   }
 ]

@@ -18,16 +18,19 @@ function Projects() {
   return (
     <Container>
       <h1>Portfolio Projects</h1>
+      <h5>Click the project image for project demo</h5>
       <Row>
         {projects.map((project) => (
           <Col size="md-6" className="col-project">
             <ProjectCard
               key={project.id}
-              imageLink={project.imageLink}
+              // imageLink={project.imageLink}
               name={project.name}
+              poster={project.poster}
               image={project.image}
               description={project.description}
               repoLink={project.repoLink}
+              liveLink={project.liveLink}
             />
           </Col>
         ))}
