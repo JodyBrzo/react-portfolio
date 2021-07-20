@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "./images/dayrec.mp4",
+    "image": "./images/dayrec1.mp4",
     "poster": "./images/dayrec.png",
     "name": "DAYREC",
     "description": "This was my second group project, We created an application that allowed our class to submit bets on how many times our Instructor forgot to share his screen or recoed the session.",
